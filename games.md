@@ -1,7 +1,7 @@
 # Games
 * All-In-One Sports VR
-* Car Mechanic Simulator VR
-* Epic Roller Coasters
 * Beat Saber
+* Car Mechanic Simulator VR
 * DOOM VFR
+* Epic Roller Coasters
 * Job Simulator
