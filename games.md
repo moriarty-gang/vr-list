@@ -5,3 +5,4 @@
 * DOOM VFR
 * Epic Roller Coasters
 * Job Simulator
+* Marineverse Cup
